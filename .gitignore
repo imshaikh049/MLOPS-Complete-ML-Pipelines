@@ -1,8 +1,4 @@
-data
-models
-reports
-.dvcignore
-dvc.yaml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
