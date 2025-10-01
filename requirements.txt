@@ -1,0 +1,50 @@
+# Core Scientific Libraries
+numpy
+pandas
+scipy
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Deep Learning Frameworks
+torch
+torchvision
+torchaudio
+tensorflow
+keras
+
+# Natural Language Processing
+nltk
+spacy
+transformers
+sentencepiece
+
+# Computer Vision
+opencv-python
+pillow
+albumentations
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Model Tracking & Experimentation
+mlflow
+dvc
+
+# Data Handling & Preprocessing
+scikit-image
+imbalanced-learn
+
+# Jupyter Environment
+jupyter
+notebook
+ipykernel
+
+# Utilities
+tqdm
+joblib
